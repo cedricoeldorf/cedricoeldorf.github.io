@@ -1152,11 +1152,15 @@
 		  margin-top: 0;
 		  color: inherit;
 			font-weight: bold;
+			font-weight: strong;
+			letter-spacing: normal;
 		}
 		.timeline-body > p,
 		.timeline-body > ul {
 		  margin-bottom: 0;
 			font-size: 1em;
+			letter-spacing: normal;
+			line-spacing: normal;
 			text-align: center;
 			font-weight: normal;
 			text-transform: none !important;
