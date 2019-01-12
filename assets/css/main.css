@@ -1042,7 +1042,7 @@
 		  content: " ";
 		  width: 3px;
 		  background-color: #eeeeee;
-		  left: 20%;
+		  left: 7%;
 		  margin-left: -1.5px;
 		}
 		.timeline > li {
@@ -1067,7 +1067,7 @@
 		}
 		/* Controls timeline boxes */
 		.timeline > li > .timeline-panel {
-		  width: 50%;
+		  width: 77%;
 			display: inline-block;
 		  /* float: right; */
 		  border: 1px solid #d4d4d4;
@@ -1099,6 +1099,7 @@
 		  border-bottom: 14px solid transparent;
 		  content: " ";
 		}
+		/* Moves circles */
 		.timeline > li > .timeline-badge {
 		  color: #fff;
 		  width: 50px;
@@ -1108,7 +1109,7 @@
 		  text-align: center;
 		  position: absolute;
 		  top: 16px;
-		  left: 20%;
+		  left: 7%;
 		  margin-left: -25px;
 		  background-color: #999999;
 		  z-index: 100;
