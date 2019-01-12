@@ -1042,7 +1042,7 @@
 		  content: " ";
 		  width: 3px;
 		  background-color: #eeeeee;
-		  left: 7%;
+		  left: 1%;
 		  margin-left: -1.5px;
 		}
 		.timeline > li {
@@ -1067,7 +1067,7 @@
 		}
 		/* Controls timeline boxes */
 		.timeline > li > .timeline-panel {
-		  width: 77%;
+		  width: 90%;
 			display: inline-block;
 		  /* float: right; */
 		  border: 1px solid #d4d4d4;
@@ -1109,7 +1109,7 @@
 		  text-align: center;
 		  position: absolute;
 		  top: 16px;
-		  left: 7%;
+		  left: 1%;
 		  margin-left: -25px;
 		  background-color: #999999;
 		  z-index: 100;
