@@ -1065,6 +1065,7 @@
 		  width: 90%;
 			display: inline-block;
 		  /* float: right; */
+			background-color: #FFFFFF;
 		  border: 1px solid #d4d4d4;
 		  border-radius: 2px;
 		  padding: 20px;
