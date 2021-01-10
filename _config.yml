@@ -23,7 +23,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author_logo_square:
+author_logo_square: profile_square.png
 author: Cedric Oeldorf
 author_bio: Hi, my name is Cedric Oeldorf. I search for the intersection of AI and Design.
 author_email: "cedric.oeldorf@gmail.com"
