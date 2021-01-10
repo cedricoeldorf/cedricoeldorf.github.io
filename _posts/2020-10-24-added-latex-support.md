@@ -1,34 +1,33 @@
 ---
 layout: post
-title:  "Added Latex Support"
-summary: Writing Equations using Latex
-author: xplor4r
-date: '2020-10-24 10:35:23 +0530'
-category: jekyll
+title:  "Test post ML ML ML"
+summary: "TESTESTEST"
+author: Cedric Oeldorf
+date: '2019-05-22 14:35:23 +0530'
+category: Keras
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+keywords: keras
+permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
-permalink: /blog/added-latex-equations-support/
 ---
 
-## You can now use LaTex to write equations :
+BLa bla bla support for code snippets:
 
-In the frontmatter of the article add this :
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-`usemathjax: true`
+or
 
-After that, simply wrap the math symbols of your article with two double-dollar sign $$:
-
-For Example :
-
-- use this `$$E=mc^2$$`
-
-You should be able to see it in your post as: $$E=mc^2$$
-
- use `$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$` to write :
-
-$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
-
-- Use `k_{n+1} = n^2 + k_n^2 - k_{n-1}` to write
-
-$$k_{n+1} = n^2 + k_n^2 - k_{n-1}$$
+```javascript
+var a = 1;
+var b = 2;
+function sum (num1,num2){
+  return num1+num2;
+}
+var result = sum(a,b);
+```

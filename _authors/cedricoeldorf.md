@@ -3,8 +3,8 @@ name: Cedric Oeldorf
 username: coeld_
 bio: "Hi I am Cedric, a ML Engineer and Designer."
 site: coeld.com
-avatar: johndoe.png
-email: mail@johndoe.com
+avatar: profile_square.png
+email: coeld.mail@gmail.com
 social:
     - title: "github"
       url: "https://github.com/johndoe"

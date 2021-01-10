@@ -1,34 +1,33 @@
 ---
 layout: post
-author: johndoe
-title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
-thumbnail: /assets/img/posts/hello.jpg
-category: jekyll
-summary: Demo Content using Netlify CMS
-keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to use netlify cms
-permalink: /blog/using-netlify-cms/
+title:  "Test post ML ML ML"
+summary: "TESTESTEST"
+author: Cedric Oeldorf
+date: '2019-05-22 14:35:23 +0530'
+category: Keras
+thumbnail: /assets/img/posts/code.jpg
+keywords: keras
+permalink: /blog/welcome-to-devlopr-jekyll/
+usemathjax: true
 ---
-# Hello World ,
 
-This page is a demo that shows everything you can do inside blog posts.
+BLa bla bla support for code snippets:
 
-We’ve included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-**Obviously,**we’ve styled up *all the basic* text formatting options available in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+or
 
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add **blockquotes**, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+```javascript
+var a = 1;
+var b = 2;
+function sum (num1,num2){
+  return num1+num2;
+}
+var result = sum(a,b);
+```
