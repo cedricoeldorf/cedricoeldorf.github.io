@@ -6,3 +6,15 @@
 @import "devlopr";
 
 /* custom css goes below */
+.jumbotron { background-image: url("/assets/img/header_back.png"); }
+
+.author-profile-img { width: 300px; height: auto; border-radius: 50%; }
+
+.navbar-brand {
+  visibility: hidden;
+}
+
+.navbar-brand:after {
+  visibility: visible;
+  content: 'coeld';
+}
