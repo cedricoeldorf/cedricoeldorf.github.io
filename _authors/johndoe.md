@@ -1,8 +1,8 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
+name: Cedric Oeldorf
+username: coeld_
+bio: "Hi I am Cedric, a ML Engineer and Designer."
+site: coeld.com
 avatar: johndoe.png
 email: mail@johndoe.com
 social:

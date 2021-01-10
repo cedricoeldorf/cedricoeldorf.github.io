@@ -27,35 +27,35 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author: Cedric Oeldorf
+author_bio: Hi, my name is Cedric Oeldorf. I search for the intersection of AI and Design.
+author_email: "cedric.oeldorf@gmail.com"
+author_location: Estonia
+author_website_url: ""
+typewrite-text:
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: Ericsson
               company_logo: google.png
               company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              designation: Machine Learning Engineer
+              description: Working
               visibility: true
-            - company_name: Microsoft
+            - company_name: DataProphet
               company_logo: microsoft.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              designation: Data Scientist
+              description: Worked
               visibility: true
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: Maastricht University
                 college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_degree: Artificial Intelligence
+                description: Master of Science
                 visibility: true
 
 # Projects
@@ -72,16 +72,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: coeld_
+github_username:  cedricoeldorf
+facebook_username:
+linkedin_username: cedricoeldorf
+behance_username:
+instagram_username: coeld_
+medium_username:
+telegram_username:
+dribbble_username:
+flickr_username: 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
