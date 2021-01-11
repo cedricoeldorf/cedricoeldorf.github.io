@@ -1,6 +1,6 @@
 ---
 name: Cedric Oeldorf
-username: coeld_
+username: cedricoeldorf
 bio: "Hi I am Cedric, a ML Engineer and Designer."
 site: coeld.com
 avatar: profile_square.png

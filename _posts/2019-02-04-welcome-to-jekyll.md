@@ -2,7 +2,7 @@
 layout: post
 title:  "Test post ML ML ML"
 summary: "TESTESTEST"
-author: Cedric Oeldorf
+author: cedricoeldorf
 date: '2019-05-22 14:35:23 +0530'
 category: Keras
 thumbnail: /assets/img/posts/code.jpg
